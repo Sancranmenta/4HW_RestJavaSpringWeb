@@ -1,0 +1,7 @@
+{
+  "requestUid":"abc123",
+  "messages":{
+    "id":"123",
+    "email":"example@gmail.com"
+  }
+}
